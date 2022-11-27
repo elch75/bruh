@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+nav{
+    background-color: rgb(0, 217, 255);
+    height: 60px;
+    width: 100%;
+}
+
+nav ul{
+    float: right;
+    margin-right: 10px;
+}
+kbd{
+    border-radius: 2px; 
+    padding: 2px; 
+    border: 1px solid black;
+}
